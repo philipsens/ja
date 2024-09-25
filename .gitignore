@@ -1,0 +1,6 @@
+# everywhere
+node_modules
+
+# in project root
+/.idea
+/.vscode
